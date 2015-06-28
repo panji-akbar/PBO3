@@ -15,22 +15,19 @@ JButton button;
 	button=new JButton("TOMBOL");
 		add(button);
 		setLayout(new FlowLayout());
-		setSize(490,350);
+		setSize(200,250);
 		createLoyuot();
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setVisible(true);
-	
 	}
 	
 	public void  createLoyuot() {
 		for (int i=0;i<10;i++)
 			add (new JButton("toml " +i));
-		
 	}
 
 	public static void main(String[] args) {
 		new CobaFlowLayout();
-
 	}
 
 }

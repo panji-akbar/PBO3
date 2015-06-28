@@ -1,6 +1,5 @@
 package praktikum_7.Interface.Extend;
 
-
 public class Trapesium {
 	
 	public interface BentukInterface {
@@ -8,11 +7,9 @@ public class Trapesium {
 		public static final double PHI = 3.14;
 		public void tulis();
 	}
-	
 	public interface HitungKeliling extends BentukInterface {
 		public double hitungKeliling();
 	}
-	
 	public interface HitungLuas extends BentukInterface {
 		public double hitungLuas();
 	}
@@ -24,5 +21,4 @@ public class Trapesium {
 				this.jariJari = jariJari;
 			}
 	}
-
 }

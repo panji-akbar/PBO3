@@ -10,9 +10,6 @@ public class orang1 {
 		System.out.println(nama +","+alamat+","+tinggiBadan+","+beratBadan);
 	
 	}
-	
-	
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		orang1 objekOrang= new orang1();
@@ -30,5 +27,4 @@ public class orang1 {
 		objekOrang1.cetakorang1();
 
 	}
-
 }

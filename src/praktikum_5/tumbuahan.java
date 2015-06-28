@@ -23,8 +23,6 @@ public class tumbuahan {
 		tumbuahan ada = new tumbuahan ("bjuj",29);
 		apa.cetak1();
 		
-		
-
 	}
 
 }

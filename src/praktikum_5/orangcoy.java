@@ -13,12 +13,9 @@ public class orangcoy {
 	}
 	private void setsiapa(String str) {
 		siapa=str;
-		
-
 	}
 	private String setalamat() {
 		return alamat;
-		
 	}
 	private void setalamat(String str) {
 	alamat=str;

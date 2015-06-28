@@ -10,7 +10,7 @@ public class CobaGUI {
 		JLabel label= new JLabel("label coy");
 		frame.add(label);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE );
-		frame.setSize(500, 400);
+		frame.setSize(100, 100);
 		frame.setVisible(true);
 	}
 }

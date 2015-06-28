@@ -14,4 +14,5 @@ public abstract class Model {
 	public abstract float hitungLuas();
 	public abstract void tulis();
 	
+	
 }

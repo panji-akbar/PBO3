@@ -1,7 +1,6 @@
+package praktikum_8;
 
-	package praktikum_8;
-
-	import java.io.FileInputStream;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
@@ -19,9 +18,7 @@ import java.io.IOException;
 			catch (IOException e) {
 				System.out.println("IOException terjadi ");
 			}
-
 		}
-
 	}
 
 
